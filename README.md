@@ -13,6 +13,6 @@ This is a workaround for GitHub's limitation to add attachments to issues.
  
 ## Notes
 
-This branch is supposed to contain attachments only---so please do not merge this branch to `master` since it does not contain any project files anymore.
+This branch is supposed to contain attachments only—so please do not merge this branch to `master` since it does not contain any project files anymore.
 
 It is save to delete the branch, though, without actually breaking links in issues because the attachments remain under version control and are still accessible from the repository's commit history. However, it is important to reference files using permanent links including the commit number (as decribed above).
